@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 new text file
 
+update i also like burgers
+
+
 updated text file
+=======
+I like burgers
+>>>>>>> b51ff8ec6eb3e316cc7cbb7ca7f5c68feb66c594
